@@ -1,2 +1,0 @@
-context_level,representation,test_accuracy_mean,test_accuracy_std,test_macro_f1_mean,test_macro_f1_std,test_weighted_f1_mean,test_weighted_f1_std,best_lr_mode,best_lr_counts
-L2,deberta_base_finetune,0.7680499999999999,0.011429615527703052,0.7681592332275804,0.011242581564101765,0.7681592332275804,0.01124258156410181,2e-05,"{""2e-05"": 10}"
