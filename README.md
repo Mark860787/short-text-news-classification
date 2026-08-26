@@ -7,7 +7,8 @@ This project investigates how **textual feature construction under reduced conte
 
 I compare models with different levels of complexity — **Logistic Regression, BiLSTM, and fine-tuned DeBERTa** — across progressively richer textual context levels to understand how much classification performance depends on the amount and quality of information available to a model.
 
-📄 ****[View the full report](https://github.com/Mark860787/short-text-news-classification/blob/main/Report.pdf)****
+📄 **[View the full report](https://github.com/Mark860787/short-text-news-classification/blob/main/Report.pdf)**
+
 ---
 
 ## Project Motivation
