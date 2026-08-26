@@ -138,4 +138,4 @@ The repository includes fold-level and aggregated result files, allowing the rep
 
 For the complete methodology, experimental design, results, discussion, and limitations:
 
-**[View the full report](https://github.com/Mark860787/short-text-news-classification/blob/main/Report.pdf))**
+**[View the full report](https://github.com/Mark860787/short-text-news-classification/blob/main/Report.pdf)**
