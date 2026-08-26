@@ -369,6 +369,14 @@ The same outer 10-fold splits are used across the three main model families to p
 
 The repository also includes fold-level and aggregated result files, allowing the reported results to be inspected without rerunning all computationally expensive nested cross-validation experiments.
 
+## Installation
+
+Install the dependencies required for the final architecture:
+
+```bash
+pip install -r requirements.txt
+```
+
 ---
 
 ## Full Report
