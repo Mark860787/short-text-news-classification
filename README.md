@@ -2,9 +2,9 @@
 
 This project investigates how **textual feature construction under reduced context affects classifier generalization in short-text news classification**.
 
-We compare models with different levels of complexity — **Logistic Regression, BiLSTM, and fine-tuned DeBERTa** — across progressively richer textual context levels.
+I compare models with different levels of complexity — **Logistic Regression, BiLSTM, and fine-tuned DeBERTa** — across progressively richer textual context levels.
 
-📄 **[Read the full project report](./report.pdf)**
+📄 **[Read the full project report](https://github.com/Mark860787/short-text-news-classification/blob/main/Report.pdf)**
 
 ## Project Overview
 
@@ -138,4 +138,4 @@ The repository includes fold-level and aggregated result files, allowing the rep
 
 For the complete methodology, experimental design, results, discussion, and limitations:
 
-**[View the full report](./report.pdf)**
+**[View the full report](https://github.com/Mark860787/short-text-news-classification/blob/main/Report.pdf))**
